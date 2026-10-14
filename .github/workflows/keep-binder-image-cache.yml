@@ -1,0 +1,23 @@
+name: Keep Binder image on cache
+
+on:
+  push:
+    branches:
+      - main
+
+  # Run before Binder's 7-day inactivity
+  schedule:
+    - cron: "0 3 */5 * *" # Every 5 days at 3am UTC
+
+  workflow_dispatch:
+
+jobs:
+  warm-binder-cache:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Refresh MyBinder cache
+        uses: jupyterhub/repo2docker-action@master
+        with:
+          NO_PUSH: true
+          MYBINDERORG_TAG: main
