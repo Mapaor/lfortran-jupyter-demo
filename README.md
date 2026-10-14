@@ -1,2 +1,6 @@
 # mybinder-lfortran-demo
-An online Jupter Notbook editing experience using MyBinder and the LFortran kernel
+An demo on how easily is to set up MyBinder with the LFortran kernel and a set of files for an online shareable and editable Notebook of Fortran running as cells (Jupyter).
+
+Note: The GH actions is used to prevent having to wait for the build every time 7 days of inactivity.
+
+
