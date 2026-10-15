@@ -5,9 +5,9 @@ on:
     branches:
       - main
 
-  # Run before Binder's 7-day inactivity
+  # Run every 4 hours
   schedule:
-    - cron: "0 3 */5 * *" # Every 5 days at 3am UTC
+    - cron: "0 */4 * * *" # Every 5 days at 3am UTC
 
   workflow_dispatch:
 
