@@ -5,7 +5,7 @@ Note: The GH actions is used to prevent having to wait for the build every time 
 
 ## See it Live!
 
-MyBinder: [https://mybinder.org/v2/gh/Mapaor/mybinder-lfortran-demo/main?urlpath=lab/tree/index.ipynb](https://mybinder.org/v2/gh/Mapaor/mybinder-lfortran-demo/main?urlpath=lab/tree/index.ipynb)
+MyBinder: [https://mybinder.org/v2/gh/Mapaor/lfortran-jupyter-demo/main?urlpath=lab/tree/index.ipynb](https://mybinder.org/v2/gh/Mapaor/lfortran-jupyter-demo/main?urlpath=lab/tree/index.ipynb)
 
 Notebook Link: [https://notebook.link/@Mapaor/lfortran-demo](https://notebook.link/@Mapaor/lfortran-demo)
 
