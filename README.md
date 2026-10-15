@@ -1,7 +1,7 @@
 # LFortran Demo in Jupyter
-An demo on how easily is to set up MyBinder or Notebok Link with the LFortran kernel and a set of files for an online shareable and editable Notebook of Fortran running as cells (Jupyter).
+An demo on how easily is to set up MyBinder or Notebok Link with the LFortran kernel and a set of files for an online shareable and editable notebook of Fortran running inside Jupyter.
 
-Note: The GH actions is used to prevent having to wait for the build every time there is a period of inactivity.
+Note: The GH actions is a cron job to prevent the docker image being removed from the MyBinder cache after a period of inactivity.
 
 ## See it Live!
 
