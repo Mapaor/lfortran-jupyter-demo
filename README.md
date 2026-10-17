@@ -5,8 +5,8 @@ Note: I also use a cron job ([cron-job.org](https://cron-job.org)) every hour at
 
 ## See it Live!
 
-MyBinder: [https://mybinder.org/v2/gh/Mapaor/lfortran-jupyter-demo/main?urlpath=lab/tree/index.ipynb](https://mybinder.org/v2/gh/Mapaor/lfortran-jupyter-demo/main?urlpath=lab/tree/index.ipynb)
-
 Notebook Link: [https://notebook.link/@Mapaor/lfortran-demo](https://notebook.link/@Mapaor/lfortran-demo)
+
+MyBinder: [https://mybinder.org/v2/gh/Mapaor/lfortran-jupyter-demo/main?urlpath=lab/tree/index.ipynb](https://mybinder.org/v2/gh/Mapaor/lfortran-jupyter-demo/main?urlpath=lab/tree/index.ipynb)
 
 
